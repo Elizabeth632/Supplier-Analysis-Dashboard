@@ -56,10 +56,11 @@ Below is the data model representing the relationships between **Vendors**, **Pl
   - **Twin Rocks**: 8,000.70 hours of downtime.
   - **Hingham**: 7,317.08 hours of downtime.
 
+
 ###
  Vendor                   |                                      Plant                                
 :------------------------------|-----------------------------------------------:         
- ![](Vendors.png) |                       ![](Plant.png)
+ ![](Vendors.png) |                       ![](plant1.png)
 ---
 
 ### 3. Material and Vendor Combination Performance
@@ -68,7 +69,7 @@ Below is the data model representing the relationships between **Vendors**, **Pl
   - **Zoozzy** and **Corrugate**: Highest defect quantity at 1.43M and 76.13 downtime hours.
   - **Zoozzy** and **Film**: Second highest defect quantity at 947K with 131.48 downtime hours.
 
----
+--- ![](Material.png)
 
 ### 4. Defect Types and Their Impact
 
@@ -81,14 +82,15 @@ Below is the data model representing the relationships between **Vendors**, **Pl
   - **Not Certified**: 13,783.75 downtime hours.
   - **Bad Seams**: 12,972.23 downtime hours.
   - **Miscellaneous**: 10,816.88 downtime hours.
-
----
-
-### 5. Vendor and Plant Combination Performance
-
+  - 
+    ### Vendor and Plant Combination Performance
+    
 - A cross-analysis of vendors and plant performance shows that some vendors consistently perform poorly across different plants:
   - **Zoozzy** at **Waldoboro**: 923K defect quantity with 82.22 downtime hours.
-  - **Zoozzy** at **Weaverville**: 582K defect quantity with 34.63 downtime hours.
+  - **Zoozzy** at **Weaverville**: 582K defect quantity with 34.63 downtime hours
+  - 
+    ![](Downtime_Impact.png)
+
 
 ---
 
