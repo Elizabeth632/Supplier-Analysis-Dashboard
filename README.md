@@ -20,7 +20,7 @@ Below is the data model representing the relationships between **Vendors**, **Pl
 ------
 ## Skills Used
 
-- **Data Cleaning & Transformation
+- **Data Cleaning & Transformation**
 - **Data Modeling**
 - **Data Analysis**
 - **Data Visualization**
